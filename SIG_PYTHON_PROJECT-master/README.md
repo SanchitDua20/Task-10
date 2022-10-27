@@ -20,5 +20,5 @@ Starter repository for Task #10 of SIG PYTHON 2021
 
 
 ### SuperUser Credentials (to login to /admin)
-Username: maxeinstein
-password: django@1001
+Username: sanchit
+password: sanchitdua@123
